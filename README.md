@@ -1,6 +1,9 @@
 # capstone_data_science
 The capstone project for Data Science specialization - Coursera
-This R Markdown presentation is the Milestone Report for the Coursera Data Science Capstone final project. The goal of the capstone project is to explore the most important features of a text data set offered by Johns Hopkins University within this capstone project of the Data Science Specialization in partnership with Swiftkey.
+
+This repository contains the files of the Milestone Report for the Coursera Data Science Capstone final project and the My GuessApp application for prediction the next word to be typed in a sentence.
+
+The goal of the capstone project is to explore the most important features of a text data set offered by Johns Hopkins University within this capstone project of the Data Science Specialization in partnership with Swiftkey.
 
 As a result of this exploration, we have to create a predictive text model using a large text corpus of different type of documents as training data, like blogs, news, twitter. We will perform an exploratory data analysis over this corpus of text data and will use common natural language processing techniques to build a predictive model by the final of this capstone project.
 
