@@ -1,4 +1,4 @@
-# capstone_data_science
+# README file of capstone_data_science repository:
 The capstone project for Data Science specialization - Coursera
 
 This repository contains the files of the Milestone Report for the Coursera Data Science Capstone final project and the My GuessApp application for prediction the next word to be typed in a sentence.
