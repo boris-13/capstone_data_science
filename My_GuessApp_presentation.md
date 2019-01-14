@@ -65,3 +65,5 @@ https://boris-13.shinyapps.io/guess_shinyapp/
 - You can also download it from github repository 
 https://github.com/boris-13/capstone_data_science
 
+- This presentation is available in  
+http://rpubs.com/boris13/myguessapp
