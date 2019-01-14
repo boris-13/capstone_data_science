@@ -34,7 +34,9 @@ My GuessApp uses a simple and a clean user interface (UI) which
 access the data files for predicitons algorithm that is working
 in the background.
 
-![GuessApp interface](shinyapp_screenshot.png)
+<div align="center">
+<img src="shinyapp_screenshot.png" width=500 height=360>
+</div>
 
 The user enters some word into the input box and the next word to be 
 predicted is presented in the below box. 
@@ -57,8 +59,8 @@ Try My GuessApp Today
 ========================================================
 ## Shiny application
 
-- The shiny application is available in
-https://mcastrol.shinyapps.io/guessing_next_word/
+- The shiny application is available in  
+https://boris-13.shinyapps.io/guess_shinyapp/
 
 - You can also download it from github repository 
 https://github.com/boris-13/capstone_data_science
